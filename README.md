@@ -9,3 +9,4 @@ My primary focus area is Android and Kotlin engineering including Mobile Perform
 - Tech writer ([medium](https://medium.com/@morfly))
 - Co-organizer at Android Worldwide ([youtube](https://www.youtube.com/@AndroidWorldwide/videos))
 
+![Morfly's github stats](https://github-readme-stats.vercel.app/api?username=morfly&show_icons=true)
