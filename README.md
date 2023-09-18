@@ -7,5 +7,5 @@ My primary focus area is Android and Kotlin engineering including Mobile Perform
 - Sr. Staff Software Engineer at Turo
 - Conference speaker ([sessionize](https://sessionize.com/pavlo-stavytskyi/))
 - Tech writer ([medium](https://medium.com/@morfly))
-- Co-organizer at Android Worldwide ([YouTube](https://www.youtube.com/@AndroidWorldwide/videos))
+- Co-organizer at Android Worldwide ([youtube](https://www.youtube.com/@AndroidWorldwide/videos))
 
