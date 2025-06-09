@@ -3,13 +3,10 @@ Welcome to my GitHub page! My name is **Pavlo Stavytskyi**. I am originally from
 My primary focus area is Android and Kotlin engineering including Mobile Performance, Developer Productivity, and Infrastructure.
 ### About me
 
-- Google Developer Expert for Android, Kotlin ([profile](https://developers.google.com/profile/u/morfly))
-- Sr. Staff Software Engineer at Turo
+- Google Developer Expert for Android ([profile](https://developers.google.com/profile/u/morfly))
+- Staff Software Engineer at Meta
 - Conference speaker ([sessionize](https://sessionize.com/pavlo-stavytskyi/))
 - Tech writer ([medium](https://medium.com/@morfly))
-- Co-organizer at Android Worldwide ([youtube](https://www.youtube.com/@AndroidWorldwide/videos))
-
-![Morfly's github stats](https://github-readme-stats.vercel.app/api?username=morfly&show_icons=true)
 
 <p>
 <a href="https://twitter.com/morfly_io">
